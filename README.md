@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leen-gh
-- 👀 I’m interested in web develpment
-- 🌱 I’m currently learning how to build Pro Wordpress Theme with PHP
+- 👀 I’m interested in web development
 - 📫 How to reach me " leen.ghaleb.d@gmail.com"
 
 <!---
